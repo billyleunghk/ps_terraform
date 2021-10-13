@@ -1,2 +1,2 @@
 # ps_terraform
-Publicis Sapient terraform test
+PS terraform test
